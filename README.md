@@ -37,4 +37,4 @@ A lógica será explicada em vídeo.
 ## Testes. 
 
 ### O vídeo a seguir mostra o teste do jogo no seu estado atual (Clique na imagem):
-[![Vídeo de teste_0.4](https://github.com/Laffaiety/Laboratorio-de-Pesquisa-fundamentacao_6/blob/main/lobby.png)](https://youtu.be/31WPOwCBi5w "Vídeo de Teste_0.6")
+[![Vídeo de teste_0.4](https://github.com/Laffaiety/Laboratorio-de-Pesquisa-fundamentacao_6/blob/main/lobby.png)](https://www.youtube.com/watch?v=d_Arz-PQmZI "Vídeo de Teste_0.6")
